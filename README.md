@@ -1,3 +1,8 @@
+# 手机端卡顿解决办法：参数
+```
+disablePointer: true，disableTouch:false,disableMouse:fasle   
+```
+
 # React iScroll
 
 React component for wrapping iScroll library.
